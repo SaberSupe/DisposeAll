@@ -1,0 +1,15 @@
+name: DisposeAll
+version: '${project.version}'
+main: saber.disposeall.DisposeAll
+api-version: 1.19
+depend: [ Vault ]
+authors: [ Saber ]
+description: Spigot plugin to sell items from your inv for a nominal fee as a way to get rid of them
+website: https://github.com/SaberSupe
+commands:
+  disposeall:
+    description: Sells items from play inv for a nominal fee as way to dispose of items
+permissions:
+  disposeall.use:
+    description: Allows the player to use dispose all
+    default: true

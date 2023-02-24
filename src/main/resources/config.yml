@@ -1,0 +1,34 @@
+#amount paid per item
+sellPrice: 1
+
+#Messages
+msgNoPerms: "&cYou don't have permission to use this command"
+msgNotPlayer: "Must be a player to use this command"
+msgSuccess: "&aItems disposed of successfully, ${0} added to your bal" # {0} - amount added to bal
+
+#Disposeable items
+disposeables:
+  - "WHEAT_SEEDS"
+  - "PUMPKIN_SEEDS"
+  - "MELON_SEEDS"
+  - "BEETROOT_SEEDS"
+  - "LEATHER"
+  - "RABBIT_HIDE"
+  - "BROWN_MUSHROOM"
+  - "RED_MUSHROOM"
+  - "EGG"
+  - "FEATHER"
+  - "APPLE"
+  - "SCUTE"
+  - "TROPICAL_FISH"
+  - "COD"
+  - "COOKED_COD"
+  - "PUFFERFISH"
+  - "OAK_SAPLING"
+  - "SPRUCE_SAPLING"
+  - "BIRCH_SAPLING"
+  - "ACACIA_SAPLING"
+  - "JUNGLE_SAPLING"
+  - "TURTLE_EGG"
+  - "FLINT"
+  - "SALMON"
