@@ -1,5 +1,5 @@
 # DisposeAll
-A spigot plugin that adds a command to remove unwanted items from the players inv for a nominal amount\
+A spigot plugin that adds a command to remove unwanted items from the players inv for a nominal amount
 
 Usage: /disposeall
 
